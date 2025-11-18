@@ -1,9 +1,13 @@
 ---
 ---
 
-# PadiathLab's Website
+# Padiath Lab's Website
 
-An engaging 1-3 sentence description of your lab.
+The major focus of the Padiath lab is to understand the molecular mechanisms underlying various neurological disorders. To achieve this, the lab uses human genetic approaches as well as research on model organisms such as mice and flies. Presently, we are studying the genetic basis of the a class of demyelinating disorders know as leukodystrophies.
+
+A major focus of lab is the adult onset demyelinating disorder, Autosomal Dominant Leukodystrophy (ADLD) that is caused by the overexpression of the nuclear lamina protein, Lamin B1.
+
+We hope that understanding demyelinating disease mechanisms will help us identify novel pathways that regulate myelin formation and maintenance.
 
 {% include section.html %}
 
@@ -11,7 +15,11 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Research Interests:
+
+Molecular mechanisms of neurological disorders, especially myelin formation and maintenance, using data on humans and mouse and fruit fly models.
+
+Molecular organization and structure of the nuclear lamina.
 
 {%
   include button.html
@@ -34,7 +42,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Please describe the overall concept of the projects.
 
 {%
   include button.html
@@ -59,7 +67,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Please provide a general overview of the team members.
 
 {%
   include button.html
