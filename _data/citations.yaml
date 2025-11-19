@@ -109,61 +109,54 @@
   orcid: 0000-0002-2468-6364
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1038/s41467-025-56378-9
+  title: An oligodendrocyte silencer element underlies the pathogenic impact of lamin
+    B1 structural variants
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  - Bruce Nmezi
+  - Guillermo Rodriguez Bey
+  - Talia DeFrancesco Oranburg
+  - Kseniia Dudnyk
+  - Santana M. Lardo
+  - Nathan Herdman
+  - Anastasia Jacko
+  - Sandy Rubio
+  - Emanuel Loeza-Alcocer
+  - Julia Kofler
+  - Dongkyeong Kim
+  - Julia Rankin
+  - Emma Kivuva
+  - Nicholas Gutowski
+  - Katherine Schon
+  - Jelle van den Ameele
+  - Patrick F. Chinnery
+  - "S\xE9rgio B. Sousa"
+  - Filipe Palavra
+  - Camilo Toro
+  - Filippo Pinto e Vairo
+  - Jonas Saute
+  - Lisa Pan
+  - Murad Alturkustani
+  - Robert Hammond
+  - Francois Gros-Louis
+  - Michael S. Gold
+  - Yungki Park
+  - "Genevi\xE8ve Bernard"
+  - Raili Raininko
+  - Jian Zhou
+  - Sarah J. Hainer
+  - Quasar S. Padiath
+  publisher: Nature Communications
+  date: '2025-02-05'
+  link: https://doi.org/g84z9g
+  highlight: true
+  image: images/publications/doi_10.1038_s41467-025-56378-9.png
   buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
   - type: website
-    link: http://manubot.org/
+    link: https://orca.zhoulab.io/
   tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Gene regulation
+  - Gene silencing
+  - Medical genomics
   plugin: sources.py
   file: sources.yaml

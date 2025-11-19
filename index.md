@@ -15,11 +15,7 @@ We hope that understanding demyelinating disease mechanisms will help us identif
 
 {% capture text %}
 
-Research Interests:
-
-Molecular mechanisms of neurological disorders, especially myelin formation and maintenance, using data on humans and mouse and fruit fly models.
-
-Molecular organization and structure of the nuclear lamina.
+Please write one or two sentences about the projects.
 
 {%
   include button.html
@@ -42,7 +38,7 @@ Molecular organization and structure of the nuclear lamina.
 
 {% capture text %}
 
-Please describe the overall concept of the projects.
+Please write one or two sentences about the projects.
 
 {%
   include button.html

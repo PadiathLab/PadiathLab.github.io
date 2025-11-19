@@ -2,46 +2,38 @@
   subtitle: a subtitle
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  #link: https://github.com/
+  description: Project 1 description.
+  #repo: greenelab/lab-website-template
   tags:
-    - resource
+    - keywords
 
 - title: Cool Package
   subtitle: a subtitle
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  #link: https://github.com/
+  description: Project 2 description.
+  #repo: greenelab/lab-website-template
   tags:
-    - resource
+    - keywords
 
 - title: Cool Tutorial
   subtitle: a subtitle
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  #link: https://github.com/
+  description: Project 3 description.
+  #repo: greenelab/lab-website-template
   tags:
-    - resource
+    - keywords
     - publication
 
 - title: Cool Web App
   subtitle: a subtitle
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  #link: https://github.com/
+  description: Project 4 description.
+  #repo: greenelab/lab-website-template
   tags:
     - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software

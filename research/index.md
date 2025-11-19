@@ -2,20 +2,27 @@
 title: Research
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: Publications
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Please provide description of lab's research focus and Interests.
+
+Research Interests:
+
+Molecular mechanisms of neurological disorders, especially myelin formation and maintenance, using data on humans and mouse and fruit fly models.
+
+Molecular organization and structure of the nuclear lamina.
 
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
+{% assign highlighted = site.data.citations | where: "highlight", true %}
+{% for c in highlighted %}
+  {% include citation.html lookup=c.id style="rich" %}
+{% endfor %}
 {% include section.html %}
 
 ## All
