@@ -1,123 +1,14 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1212/NXG.0000000000200287
-  title: "Clinical Practice Guidelines for the Diagnosis, Management, and Surveillance\
-    \ of\n            <i>LMNB1</i>\n            -Related Autosomal Dominant Leukodystrophy"
-  authors:
-  - Radhika Dhamija
-  - W. Oliver Tobin
-  - Pietro Cortelli
-  - Quasar Padiath
-  - Karthik Muthusamy
-  - Ujjal Didar Singh Sekhon
-  - Bishen Jeet Singh
-  - Dan Harris
-  - Heather Billings
-  - Keti Mamillo
-  - Holly Appleberry
-  - Elisa Giorgio
-  - Stefano Ratti
-  - Brent L. Fogel
-  - Ralitza Gavrilova
-  - Raili Raininko
-  - Margot A. Cousin
-  publisher: Neurology Genetics
-  date: '2025-10-01'
-  link: https://doi.org/g992xk
-  orcid: 0000-0002-2468-6364
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2024.08.27.609903
-  title: Therapeutic suppression of <i>Tubb4a</i> rescues H-ABC leukodystrophy
-  authors:
-  - Sunetra Sase
-  - Julia L. Hacker
-  - Prabhat R. Napit
-  - Anjali Bhagavatula
-  - Sarah Woidill
-  - "Annemarie D\u2019Alessandro"
-  - Marisa A. Jeffries
-  - Akshata Almad
-  - Asako Takanohashi
-  - Quasar Padiath
-  - Judith Grinspan
-  - Eric D. Marsh
-  - Adeline Vanderver
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-08-27'
-  link: https://doi.org/hbbqc7
-  orcid: 0000-0002-2468-6364
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giac033
-  title: "scMAPA: Identification of cell-type\u2013specific alternative polyadenylation\
-    \ in complex tissues"
-  authors:
-  - Yulong Bai
-  - Yidi Qin
-  - Zhenjiang Fan
-  - Robert M Morrison
-  - KyongNyon Nam
-  - Hassane M Zarour
-  - Radosveta Koldamova
-  - Quasar Saleem Padiath
-  - Soyeon Kim
-  - Hyun Jung Park
-  publisher: GigaScience
-  date: '2022-01-01'
-  link: https://doi.org/hbbqc8
-  orcid: 0000-0002-2468-6364
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1002/mgg3.1647
-  title: "Deletion of conserved non\u2010coding sequences downstream from <i>NKX2\u2010\
-    1</i>: A novel disease\u2010causing mechanism for benign hereditary chorea"
-  authors:
-  - Jun Liao
-  - Keith A. Coffman
-  - Joseph Locker
-  - Quasar S. Padiath
-  - Bruce Nmezi
-  - Robyn A. Filipink
-  - Jie Hu
-  - Malini Sathanoori
-  - "Suneeta Madan\u2010Khetarpal"
-  - Marianne McGuire
-  - Allison Schreiber
-  - Rocio Moran
-  - Neil Friedman
-  - Lori Hoffner
-  - Aleksandar Rajkovic
-  - Svetlana A. Yatsenko
-  - Urvashi Surti
-  publisher: Molecular Genetics &amp; Genomic Medicine
-  date: '2021-03-05'
-  link: https://doi.org/hbbqc9
-  orcid: 0000-0002-2468-6364
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.jns.2015.10.002
-  title: CAPOS syndrome and hemiplegic migraine in a novel pedigree with the specific
-    ATP1A3 mutation
-  authors:
-  - Ana Potic
-  - Bruce Nmezi
-  - Quasar S. Padiath
-  publisher: Journal of the Neurological Sciences
-  date: '2015-11-01'
-  link: https://doi.org/f7zb4d
-  orcid: 0000-0002-2468-6364
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1038/s41467-025-56378-9
+- id: pubmed:39910058
   title: An oligodendrocyte silencer element underlies the pathogenic impact of lamin
-    B1 structural variants
+    B1 structural variants.
   authors:
   - Bruce Nmezi
   - Guillermo Rodriguez Bey
   - Talia DeFrancesco Oranburg
   - Kseniia Dudnyk
-  - Santana M. Lardo
+  - Santana M Lardo
   - Nathan Herdman
   - Anastasia Jacko
   - Sandy Rubio
@@ -129,28 +20,28 @@
   - Nicholas Gutowski
   - Katherine Schon
   - Jelle van den Ameele
-  - Patrick F. Chinnery
-  - "S\xE9rgio B. Sousa"
+  - Patrick F Chinnery
+  - "S\xE9rgio B Sousa"
   - Filipe Palavra
   - Camilo Toro
-  - Filippo Pinto e Vairo
+  - Filippo Pinto E Vairo
   - Jonas Saute
   - Lisa Pan
   - Murad Alturkustani
   - Robert Hammond
   - Francois Gros-Louis
-  - Michael S. Gold
+  - Michael S Gold
   - Yungki Park
   - "Genevi\xE8ve Bernard"
   - Raili Raininko
   - Jian Zhou
-  - Sarah J. Hainer
-  - Quasar S. Padiath
-  publisher: Nature Communications
+  - Sarah J Hainer
+  - Quasar S Padiath
+  publisher: Nature communications
   date: '2025-02-05'
-  link: https://doi.org/g84z9g
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39910058
   highlight: true
-  image: images/publications/doi_10.1038_s41467-025-56378-9.png
+  image: images/publications/pubmed_39910058.png
   buttons:
   - type: website
     link: https://orca.zhoulab.io/
@@ -158,5 +49,303 @@
   - Gene regulation
   - Gene silencing
   - Medical genomics
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:40933505s
+  title: Clinical Practice Guidelines for the Diagnosis, Management, and Surveillance
+    of
+  authors:
+  - Radhika Dhamija
+  - W Oliver Tobin
+  - Pietro Cortelli
+  - Quasar Padiath
+  - Karthik Muthusamy
+  - Ujjal Didar Singh Sekhon
+  - Bishen Jeet Singh
+  - Dan Harris
+  - Heather Billings
+  - Keti Mamillo
+  - Holly Appleberry
+  - Elisa Giorgio
+  - Stefano Ratti
+  - Brent L Fogel
+  - Ralitza Gavrilova
+  - Raili Raininko
+  - Margot A Cousin
+  publisher: Neurology. Genetics
+  date: '2025-08-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40933505
+  image: images/publications/pubmed_40933505.png
+  tags:
+  - Cognitive Disorders/Dementia
+  - Genetics
+  - Leukodystrophies
+  - MRI
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:40025114
+  title: Clinical Practice Guidelines for the Diagnosis, Management, and Surveillance
+    of LMNB1-Related Autosomal Dominant Leukodystrophy
+  authors:
+  - Laura L Vollmer
+  - Fang Liu
+  - Bruce Nmezi
+  - Guillermo Rodriguez Bey
+  - Nathan Herdman
+  - Tong Ying Shun
+  - Albert Gough
+  - Ruiting Liu
+  - Peter Wipf
+  - Timothy R Lezon
+  - Quasar S Padiath
+  - Andreas Vogt
+  publisher: Scientific reports
+  date: '2025-03-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40025114
+  image: images/publications/pubmed_40025114.png
+  tags:
+  - Lamin B1
+  - Laminopathies
+  - Autosomal dominant leukodystrophy
+  - High-content screening
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:39292993
+  title: Biallelic EPB41L3 variants underlie a developmental disorder with seizures
+    and myelination defects.
+  authors:
+  - Elizabeth A Werren
+  - Guillermo Rodriguez Bey
+  - Purvi Majethia
+  - Parneet Kaur
+  - Siddaramappa J Patil
+  - Minal V Kekatpure
+  - Alexandra Afenjar
+  - Leila Qebibo
+  - Lydie Burglen
+  - Hoda Tomoum
+  - Florence Demurger
+  - Christele Duborg
+  - Shahyan Siddiqui
+  - Yao-Chang Tsan
+  - Uzma Abdullah
+  - Zafar Ali
+  - Saadia Maryam Saadi
+  - Shahid Mahmood Baig
+  - Henry Houlden
+  - Reza Maroofian
+  - Quasar Saleem Padiath
+  - Stephanie L Bielas
+  - Anju Shukla
+  publisher: 'Brain : a journal of neurology'
+  date: '2024-12-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39292993
+  highlight: true
+  image: images/publications/pubmed_39292993.png
+  tags:
+  - 4.1B
+  - neurodevelopmental disorder
+  - loss-of-function
+  - delayed myelination
+  - oligodendroglia
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:35953447
+  title: Variants in the zinc transporter TMEM163 cause a hypomyelinating leukodystrophy.
+  authors:
+  - Michelle C do Rosario
+  - Guillermo Rodriguez Bey
+  - Bruce Nmezi
+  - Fang Liu
+  - Talia Oranburg
+  - Ana S A Cohen
+  - Keith A Coffman
+  - Maya R Brown
+  - Kirill Kiselyov
+  - Quinten Waisfisz
+  - Myrthe T Flohil
+  - Shahyan Siddiqui
+  - Jill A Rosenfeld
+  - Alejandro Iglesias
+  - Katta Mohan Girisha
+  - Nicole I Wolf
+  - Quasar Saleem Padiath
+  - Anju Shukla
+  publisher: 'Brain : a journal of neurology'
+  date: '2022-12-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35953447
+  highlight: true
+  image: images/publications/pubmed_35953447.png
+  tags:
+  - hypomyelinating leukodystrophies
+  - TMEM163
+  - genomic testing
+  - oligodendrocytes
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:30765529
+  title: Concentric organization of A- and B-type lamins predicts their distinct roles
+    in the spatial organization and stability of the nuclear lamina.
+  authors:
+  - Bruce Nmezi
+  - Jianquan Xu
+  - Rao Fu
+  - Travis J Armiger
+  - Guillermo Rodriguez-Bey
+  - Juliana S Powell
+  - Hongqiang Ma
+  - Mara Sullivan
+  - Yiping Tu
+  - Natalie Y Chen
+  - Stephen G Young
+  - Donna B Stolz
+  - Kris Noel Dahl
+  - Yang Liu
+  - Quasar S Padiath
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2019-02-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30765529
+  highlight: true
+  image: images/publications/pubmed_30765529.png
+  tags:
+  - nucleus
+  - lamin
+  - bleb
+  - curvature
+  - meshwork
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:26311780
+  title: Defects of Lipid Synthesis Are Linked to the Age-Dependent Demyelination
+    Caused by Lamin B1 Overexpression.
+  authors:
+  - Harshvardhan Rolyan
+  - Yulia Y Tyurina
+  - Marylens Hernandez
+  - Andrew A Amoscato
+  - Louis J Sparvero
+  - Bruce C Nmezi
+  - Yue Lu
+  - "Marcos R H Est\xE9cio"
+  - Kevin Lin
+  - Junda Chen
+  - Rong-Rong He
+  - Pin Gong
+  - Lora H Rigatti
+  - Jeffrey Dupree
+  - "H\xFClya Bay\u0131r"
+  - Valerian E Kagan
+  - Patrizia Casaccia
+  - Quasar S Padiath
+  publisher: 'The Journal of neuroscience : the official journal of the Society for
+    Neuroscience'
+  date: '2015-08-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26311780
+  highlight: true
+  image: images/publications/pubmed_26311780.png
+  tags:
+  - chromatin
+  - demyelination
+  - gene expression
+  - inflammation
+  - Lamin B1
+  - lipid
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:23649844
+  title: Analysis of LMNB1 duplications in autosomal dominant leukodystrophy provides
+    insights into duplication mechanisms and allele-specific expression.
+  authors:
+  - Elisa Giorgio
+  - Harshvardhan Rolyan
+  - Laura Kropp
+  - Anish Baswanth Chakka
+  - Svetlana Yatsenko
+  - Eleonora Di Gregorio
+  - Daniela Lacerenza
+  - Giovanna Vaula
+  - Flavia Talarico
+  - Paola Mandich
+  - Camilo Toro
+  - Eleonore Eymard Pierre
+  - Pierre Labauge
+  - Sabina Capellari
+  - Pietro Cortelli
+  - Filippo Pinto Vairo
+  - Diego Miguel
+  - Danielle Stubbolo
+  - Lourenco Charles Marques
+  - William Gahl
+  - Odile Boespflug-Tanguy
+  - Atle Melberg
+  - Sharon Hassin-Baer
+  - Oren S Cohen
+  - Rastislav Pjontek
+  - Armin Grau
+  - Thomas Klopstock
+  - Brent Fogel
+  - Inge Meijer
+  - Guy Rouleau
+  - Jean-Pierre L Bouchard
+  - Madhavi Ganapathiraju
+  - Adeline Vanderver
+  - Niklas Dahl
+  - Grace Hobson
+  - Alfredo Brusco
+  - Alessandro Brussino
+  - Quasar Saleem Padiath
+  publisher: Human mutation
+  date: '2013-05-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23649844
+  highlight: true
+  image: images/publications/pubmed_23649844.png
+  tags:
+  - Lamin B1
+  - leukodystrophy
+  - ADLD
+  - duplication Alu
+  - NHEJ
+  - FoSTeS
+  - MMBIR
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:16951681
+  title: Lamin B1 duplications cause autosomal dominant leukodystrophy.
+  authors:
+  - Quasar S Padiath
+  - Kazumasa Saigoh
+  - Raphael Schiffmann
+  - Hideaki Asahara
+  - Takeshi Yamada
+  - Anulf Koeppen
+  - Kirk Hogan
+  - "Louis J Pt\xE1cek"
+  - Ying-Hui Fu
+  publisher: Nature genetics
+  date: '2006-09-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16951681
+  highlight: true
+  image: images/publications/pubmed_16951681.png
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:15800623
+  title: Functional consequences of a CKIdelta mutation causing familial advanced
+    sleep phase syndrome.
+  authors:
+  - Ying Xu
+  - Quasar S Padiath
+  - Robert E Shapiro
+  - Christopher R Jones
+  - Susan C Wu
+  - Noriko Saigoh
+  - Kazumasa Saigoh
+  - "Louis J Pt\xE1cek"
+  - Ying-Hui Fu
+  publisher: Nature
+  date: '2005-03-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15800623
+  highlight: true
+  image: images/publications/pubmed_15800623.png
   plugin: sources.py
   file: sources.yaml

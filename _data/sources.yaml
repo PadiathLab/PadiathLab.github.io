@@ -1,16 +1,109 @@
-# Highlighted publications from our lab
 
-- id: doi:10.1038/s41467-025-56378-9
+
+# 2025 publications
+
+- id: pubmed:39910058
   highlight: true
-  image: images/publications/doi_10.1038_s41467-025-56378-9.png
+  image: images/publications/pubmed_39910058.png
   buttons:
-   - type: website
-     link: https://orca.zhoulab.io/
+    - type: website
+      link: https://orca.zhoulab.io/
   tags:
     - Gene regulation
     - Gene silencing
     - Medical genomics
- 
+
+- id: pubmed:40933505s
+  image: images/publications/pubmed_40933505.png
+  tags:
+    - Cognitive Disorders/Dementia
+    - Genetics
+    - Leukodystrophies
+    - MRI
+
+- id: pubmed:40025114
+  title: Clinical Practice Guidelines for the Diagnosis, Management, and Surveillance of LMNB1-Related Autosomal Dominant Leukodystrophy
+  image: images/publications/pubmed_40025114.png
+  tags:
+    - Lamin B1
+    - Laminopathies
+    - Autosomal dominant leukodystrophy
+    - High-content screening
+
+# 2024 publications
+
+- id: pubmed:39292993
+  highlight: true
+  image: images/publications/pubmed_39292993.png
+  tags:
+    - 4.1B
+    - neurodevelopmental disorder
+    - loss-of-function
+    - delayed myelination
+    - oligodendroglia
+
+
+# 2022 publications
+
+- id: pubmed:35953447
+  highlight: true
+  image: images/publications/pubmed_35953447.png
+  tags:
+    - hypomyelinating leukodystrophies
+    - TMEM163
+    - genomic testing
+    - oligodendrocytes
+
+# 2019 publications
+
+- id: pubmed:30765529
+  highlight: true
+  image: images/publications/pubmed_30765529.png
+  tags:
+    - nucleus
+    - lamin
+    - bleb
+    - curvature
+    - meshwork
+
+# 2015 publications
+
+- id: pubmed:26311780
+  highlight: true
+  image: images/publications/pubmed_26311780.png
+  tags:
+    - chromatin
+    - demyelination
+    - gene expression
+    - inflammation
+    - Lamin B1
+    - lipid
+
+# 2013 publications
+
+- id: pubmed:23649844
+  highlight: true
+  image: images/publications/pubmed_23649844.png
+  tags:
+    - Lamin B1
+    - leukodystrophy
+    - ADLD
+    - duplication Alu
+    - NHEJ
+    - FoSTeS
+    - MMBIR
+
+# 2006 publications
+
+- id: pubmed:16951681
+  highlight: true
+  image: images/publications/pubmed_16951681.png
+  
+# 2005 publications
+
+- id: pubmed:15800623
+  highlight: true
+  image: images/publications/pubmed_15800623.png
 
 
 #- id: 
