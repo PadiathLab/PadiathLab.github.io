@@ -13,7 +13,8 @@
     - Gene silencing
     - Medical genomics
 
-- id: pubmed:40933505s
+- id: pubmed:40933505
+  title: "Clinical Practice Guidelines for the Diagnosis, Management, and Surveillance of LMNB1-Related Autosomal Dominant Leukodystrophy"
   image: images/publications/pubmed_40933505.png
   tags:
     - Cognitive Disorders/Dementia
@@ -42,6 +43,31 @@
     - delayed myelination
     - oligodendroglia
 
+# 2023 publications
+
+- id: pubmed:37609196
+  image: images/publications/pubmed_37609196.png
+  tags:
+    - Genetics
+
+- id: pubmed:37542275
+  image: images/publications/pubmed_37542275.png
+  tags:
+    - Oligodendrocyte
+    - Cell culture
+    - Myelin
+    - Oli-neu
+
+- id: pubmed:37450245
+  image: images/publications/pubmed_37450245.png
+  tags:
+    - ADLD
+    - Cellular Morphology
+    - Cellular Signaling
+    - Demyelination
+    - Lamin B1
+    - Neurodegenerative Diseases
+    - Rare Diseases
 
 # 2022 publications
 
@@ -54,7 +80,92 @@
     - genomic testing
     - oligodendrocytes
 
+- id: pubmed:35488860
+  highlight: true
+  image: images/publications/pubmed_35488860.png
+  tags:
+    - alternative polyadenylation
+    - cell-type–specific regulation
+    - confounding factors
+    - post-transcriptional regulation
+    - single-cell RNA
+
+# 2021 publications
+
+- id: pubmed:34447008
+  title: "LMNB1 Duplication-Mediated Autosomal Dominant Adult-Onset Leukodystrophy in an Indian Family"
+  image: images/publications/pubmed_34447008.png
+  tags:
+    - ADLD
+    - LMNB1
+    - adult-onset leukodystrophy
+    - autonomic dysfunction
+    - lamin B
+
+- id: pubmed:33666368
+  image: images/publications/pubmed_33666368.png
+  tags:
+    - NKX2-1
+    - benign hereditary chorea
+    - chromosome 14q13.2-q13.3
+    - copy number variations
+    - non-coding regulatory elements
+
+# 2020 publications
+
+- id: pubmed:32913013
+  title: "Cardiac phenotype in ATP1A3-related syndromes: A multicenter cohort study"
+  image: images/publications/pubmed_32913013.png
+  tags:
+    - Cardiac
+    - Cerebrovascular Disease/Stroke
+    - Epilepsy/Seizures
+    - Genetics
+    - Movement Disorders
+
+- id: pubmed:32463361
+  title: "TUBB4A mutations result in both glial and neuronal degeneration in an H-ABC leukodystrophy mouse model"
+  image: images/publications/pubmed_32463361.png
+  tags:
+    - TUBB4A
+    - hypomyelination
+    - leukodystrophy
+    - microtubule
+    - mouse
+    - neurodegeneration
+    - neuroscience
+
+- id: pubmed:32349647
+  image: images/publications/pubmed_32349647.png
+  tags:
+    - autosomal dominant leukodystrophy
+    - high-content analysis
+    - high-throughput screening
+    - lamin B1
+    - multivariate analysis
+
+- id: pubmed:32187401
+  image: images/publications/pubmed_32187401.png
+  tags:
+    - Akt
+    - FTLD
+    - Fus
+    - cholesterol
+    - hyperactivity
+    - myelin
+
 # 2019 publications
+
+- id: pubmed:30949481
+  image: images/publications/pubmed_30949481.png
+  tags:
+    - chromatin
+    - lamin B1
+    - leukodystrophy
+    - lipid synthesis
+    - myelin
+    - nuclear lamina
+    - nuclear structure
 
 - id: pubmed:30765529
   highlight: true
@@ -65,6 +176,37 @@
     - bleb
     - curvature
     - meshwork
+
+- id: pubmed:30842973
+  image: images/publications/pubmed_30842973.png
+  tags:
+    - Autonomic Diseases
+    - Clinical Neurology
+    - Demyelinating Disease (CNS)
+    - Genetics
+    - Imaging
+    - MRI
+
+# 2018 publications
+
+- id: pubmed:30014503
+  image: images/publications/pubmed_30014503.png
+ 
+# 2017 publications
+
+- id: pubmed:29262292
+  image: images/publications/pubmed_29262292.png
+  tags:
+    - Arterial pressure
+    - Breathing
+    - Gait
+    - Heart rate
+    - Lamin
+    - Leukodystrophy
+    - Mice
+    - Oligodendrocyte
+    - Sleep
+    - Sympathetic
 
 # 2015 publications
 

@@ -51,9 +51,9 @@
   - Medical genomics
   plugin: sources.py
   file: sources.yaml
-- id: pubmed:40933505s
+- id: pubmed:40933505
   title: Clinical Practice Guidelines for the Diagnosis, Management, and Surveillance
-    of
+    of LMNB1-Related Autosomal Dominant Leukodystrophy
   authors:
   - Radhika Dhamija
   - W Oliver Tobin
@@ -150,6 +150,99 @@
   - oligodendroglia
   plugin: sources.py
   file: sources.yaml
+- id: pubmed:37609196
+  title: An oligodendrocyte silencer element underlies the pathogenic impact of lamin
+    B1 structural variants.
+  authors:
+  - Bruce Nmezi
+  - Guillermo Rodriguez Bey
+  - Talia DeFrancesco Oranburg
+  - Kseniia Dudnyk
+  - Santana M Lardo
+  - Nathan Herdman
+  - Anastasia Jacko
+  - Sandy Rubio
+  - Emanuel Loeza Alcocer
+  - Julia Kofler
+  - Dongkyeong Kim
+  - Julia Rankin
+  - Emma Kivuva
+  - Nicholas Gutowski
+  - Katherine Schon
+  - Jelle van den Ameele
+  - Patrick F Chinnery
+  - "S\xE9rgio B Sousa"
+  - Filipe Palavra
+  - Camilo Toro
+  - Filippo Pinto E Vairo
+  - Jonas Saute
+  - Lisa Pan
+  - Murad Alturkustani
+  - Robert Hammond
+  - Francois Gros-Louis
+  - Michael Gold
+  - Yungki Park
+  - "Genevi\xE8ve Bernard"
+  - Raili Raininko
+  - Jian Zhou
+  - Sarah J Hainer
+  - Quasar S Padiath
+  publisher: 'bioRxiv : the preprint server for biology'
+  date: '2023-08-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37609196
+  image: images/publications/pubmed_37609196.png
+  tags:
+  - Genetics
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:37542275
+  title: Enhanced differentiation of the mouse oli-neu oligodendroglial cell line
+    using optimized culture conditions.
+  authors:
+  - Guillermo Rodriguez Bey
+  - Quasar Saleem Padiath
+  publisher: BMC research notes
+  date: '2023-08-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37542275
+  image: images/publications/pubmed_37542275.png
+  tags:
+  - Oligodendrocyte
+  - Cell culture
+  - Myelin
+  - Oli-neu
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:37450245
+  title: 'Understanding the Ultra-Rare Disease Autosomal Dominant Leukodystrophy:
+    an Updated Review on Morpho-Functional Alterations Found in Experimental Models.'
+  authors:
+  - Irene Neri
+  - Giulia Ramazzotti
+  - Sara Mongiorgi
+  - Isabella Rusciano
+  - Marianna Bugiani
+  - Luciano Conti
+  - Margot Cousin
+  - Elisa Giorgio
+  - Quasar S Padiath
+  - Giovanna Vaula
+  - Pietro Cortelli
+  - Lucia Manzoli
+  - Stefano Ratti
+  publisher: Molecular neurobiology
+  date: '2023-07-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37450245
+  image: images/publications/pubmed_37450245.png
+  tags:
+  - ADLD
+  - Cellular Morphology
+  - Cellular Signaling
+  - Demyelination
+  - Lamin B1
+  - Neurodegenerative Diseases
+  - Rare Diseases
+  plugin: sources.py
+  file: sources.yaml
 - id: pubmed:35953447
   title: Variants in the zinc transporter TMEM163 cause a hypomyelinating leukodystrophy.
   authors:
@@ -183,6 +276,263 @@
   - oligodendrocytes
   plugin: sources.py
   file: sources.yaml
+- id: pubmed:35488860
+  title: 'scMAPA: Identification of cell-type-specific alternative polyadenylation
+    in complex tissues.'
+  authors:
+  - Yulong Bai
+  - Yidi Qin
+  - Zhenjiang Fan
+  - Robert M Morrison
+  - KyongNyon Nam
+  - Hassane M Zarour
+  - Radosveta Koldamova
+  - Quasar Saleem Padiath
+  - Soyeon Kim
+  - Hyun Jung Park
+  publisher: GigaScience
+  date: '2022-04-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35488860
+  highlight: true
+  image: images/publications/pubmed_35488860.png
+  tags:
+  - alternative polyadenylation
+  - "cell-type\u2013specific regulation"
+  - confounding factors
+  - post-transcriptional regulation
+  - single-cell RNA
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:34447008
+  title: LMNB1 Duplication-Mediated Autosomal Dominant Adult-Onset Leukodystrophy
+    in an Indian Family
+  authors:
+  - Sunita Bijarnia-Mahay
+  - Gaurav Roy
+  - Quasar S Padiath
+  - Renu Saxena
+  - Ishwar Chander Verma
+  publisher: Annals of Indian Academy of Neurology
+  date: '2021-05-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34447008
+  image: images/publications/pubmed_34447008.png
+  tags:
+  - ADLD
+  - LMNB1
+  - adult-onset leukodystrophy
+  - autonomic dysfunction
+  - lamin B
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:33666368
+  title: 'Deletion of conserved non-coding sequences downstream from NKX2-1: A novel
+    disease-causing mechanism for benign hereditary chorea.'
+  authors:
+  - Jun Liao
+  - Keith A Coffman
+  - Joseph Locker
+  - Quasar S Padiath
+  - Bruce Nmezi
+  - Robyn A Filipink
+  - Jie Hu
+  - Malini Sathanoori
+  - Suneeta Madan-Khetarpal
+  - Marianne McGuire
+  - Allison Schreiber
+  - Rocio Moran
+  - Neil Friedman
+  - Lori Hoffner
+  - Aleksandar Rajkovic
+  - Svetlana A Yatsenko
+  - Urvashi Surti
+  publisher: Molecular genetics & genomic medicine
+  date: '2021-03-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33666368
+  image: images/publications/pubmed_33666368.png
+  tags:
+  - NKX2-1
+  - benign hereditary chorea
+  - chromosome 14q13.2-q13.3
+  - copy number variations
+  - non-coding regulatory elements
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:32913013
+  title: 'Cardiac phenotype in ATP1A3-related syndromes: A multicenter cohort study'
+  authors:
+  - Simona Balestrini
+  - Mohamad A Mikati
+  - "Reyes \xC1lvarez-Garc\xEDa-Rov\xE9s"
+  - Michael Carboni
+  - Arsen S Hunanyan
+  - Bassil Kherallah
+  - Melissa McLean
+  - Lyndsey Prange
+  - Elisa De Grandis
+  - Alessandra Gagliardi
+  - Livia Pisciotta
+  - Michela Stagnaro
+  - Edvige Veneselli
+  - Jaume Campistol
+  - Carmen Fons
+  - Leticia Pias-Peleteiro
+  - Allison Brashear
+  - Charlotte Miller
+  - "Raquel Sam\xF5es"
+  - Vesna Brankovic
+  - Quasar S Padiath
+  - Ana Potic
+  - Jacek Pilch
+  - Aikaterini Vezyroglou
+  - Ann M E Bye
+  - Andrew M Davis
+  - Monique M Ryan
+  - Christopher Semsarian
+  - Georgina Hollingsworth
+  - Ingrid E Scheffer
+  - Tiziana Granata
+  - Nardo Nardocci
+  - Francesca Ragona
+  - Alexis Arzimanoglou
+  - Eleni Panagiotakaki
+  - "In\xEAs Carrilho"
+  - Claudio Zucca
+  - Jan Novy
+  - "Karolina Dzie\u017Cyc"
+  - Marek Parowicz
+  - "Maria Mazurkiewicz-Be\u0142dzi\u0144ska"
+  - Sarah Weckhuysen
+  - Roser Pons
+  - Sergiu Groppa
+  - Daniel S Sinden
+  - Geoffrey S Pitt
+  - Andrew Tinker
+  - Michael Ashworth
+  - Zuzanna Michalak
+  - Maria Thom
+  - J Helen Cross
+  - Rosaria Vavassori
+  - Juan P Kaski
+  - Sanjay M Sisodiya
+  publisher: Neurology
+  date: '2020-09-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32913013
+  image: images/publications/pubmed_32913013.png
+  tags:
+  - Cardiac
+  - Cerebrovascular Disease/Stroke
+  - Epilepsy/Seizures
+  - Genetics
+  - Movement Disorders
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:32463361
+  title: TUBB4A mutations result in both glial and neuronal degeneration in an H-ABC
+    leukodystrophy mouse model
+  authors:
+  - Sunetra Sase
+  - Akshata A Almad
+  - C Alexander Boecker
+  - Pedro Guedes-Dias
+  - Jian J Li
+  - Asako Takanohashi
+  - Akshilkumar Patel
+  - Tara McCaffrey
+  - Heta Patel
+  - Divya Sirdeshpande
+  - Julian Curiel
+  - Judy Shih-Hwa Liu
+  - Quasar Padiath
+  - Erika Lf Holzbaur
+  - Steven S Scherer
+  - Adeline Vanderver
+  publisher: eLife
+  date: '2020-05-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32463361
+  image: images/publications/pubmed_32463361.png
+  tags:
+  - TUBB4A
+  - hypomyelination
+  - leukodystrophy
+  - microtubule
+  - mouse
+  - neurodegeneration
+  - neuroscience
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:32349647
+  title: Development and Optimization of a High-Content Analysis Platform to Identify
+    Suppressors of Lamin B1 Overexpression as a Therapeutic Strategy for Autosomal
+    Dominant Leukodystrophy.
+  authors:
+  - Bruce Nmezi
+  - Laura L Vollmer
+  - Tong Ying Shun
+  - Albert Gough
+  - Harshvardhan Rolyan
+  - Fang Liu
+  - Yumeng Jia
+  - Quasar S Padiath
+  - Andreas Vogt
+  publisher: 'SLAS discovery : advancing life sciences R & D'
+  date: '2020-04-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32349647
+  image: images/publications/pubmed_32349647.png
+  tags:
+  - autosomal dominant leukodystrophy
+  - high-content analysis
+  - high-throughput screening
+  - lamin B1
+  - multivariate analysis
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:32187401
+  title: Conditional depletion of Fus in oligodendrocytes leads to motor hyperactivity
+    and increased myelin deposition associated with Akt and cholesterol activation.
+  authors:
+  - Kelly M Guzman
+  - Lauren E Brink
+  - Guillermo Rodriguez-Bey
+  - Richard J Bodnar
+  - Lisha Kuang
+  - Bin Xing
+  - Mara Sullivan
+  - Hyun J Park
+  - Erik Koppes
+  - Haining Zhu
+  - Quasar Padiath
+  - Franca Cambi
+  publisher: Glia
+  date: '2020-03-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32187401
+  image: images/publications/pubmed_32187401.png
+  tags:
+  - Akt
+  - FTLD
+  - Fus
+  - cholesterol
+  - hyperactivity
+  - myelin
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:30949481
+  title: 'Autosomal Dominant Leukodystrophy: A Disease of the Nuclear Lamina.'
+  authors:
+  - Quasar S Padiath
+  publisher: Frontiers in cell and developmental biology
+  date: '2019-03-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30949481
+  image: images/publications/pubmed_30949481.png
+  tags:
+  - chromatin
+  - lamin B1
+  - leukodystrophy
+  - lipid synthesis
+  - myelin
+  - nuclear lamina
+  - nuclear structure
+  plugin: sources.py
+  file: sources.yaml
 - id: pubmed:30765529
   title: Concentric organization of A- and B-type lamins predicts their distinct roles
     in the spatial organization and stability of the nuclear lamina.
@@ -214,6 +564,96 @@
   - bleb
   - curvature
   - meshwork
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:30842973
+  title: Genomic deletions upstream of lamin B1 lead to atypical autosomal dominant
+    leukodystrophy.
+  authors:
+  - Bruce Nmezi
+  - Elisa Giorgio
+  - Raili Raininko
+  - Anna Lehman
+  - Malte Spielmann
+  - Mary Kay Koenig
+  - Rahmat Adejumo
+  - Melissa Knight
+  - Ralitza Gavrilova
+  - Murad Alturkustani
+  - Manas Sharma
+  - Robert Hammond
+  - William A Gahl
+  - Camilo Toro
+  - Alfredo Brusco
+  - Quasar S Padiath
+  publisher: Neurology. Genetics
+  date: '2019-01-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30842973
+  image: images/publications/pubmed_30842973.png
+  tags:
+  - Autonomic Diseases
+  - Clinical Neurology
+  - Demyelinating Disease (CNS)
+  - Genetics
+  - Imaging
+  - MRI
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:30014503
+  title: Natural History of Vanishing White Matter.
+  authors:
+  - Eline M C Hamilton
+  - Hannemieke D W van der Lei
+  - Gerre Vermeulen
+  - Jan A M Gerver
+  - "Charles M Louren\xE7o"
+  - Sakkubai Naidu
+  - Hanna Mierzewska
+  - Reinoud J B J Gemke
+  - Henrica C W de Vet
+  - Bernard M J Uitdehaag
+  - Birgit I Lissenberg-Witte
+  - Marjo S van der Knaap
+  publisher: Annals of neurology
+  date: '2018-09-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30014503
+  image: images/publications/pubmed_30014503.png
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:29262292
+  title: Mice overexpressing lamin B1 in oligodendrocytes recapitulate the age-dependent
+    motor signs, but not the early autonomic cardiovascular dysfunction of autosomal-dominant
+    leukodystrophy (ADLD).
+  authors:
+  - Viviana Lo Martire
+  - Sara Alvente
+  - Stefano Bastianini
+  - Chiara Berteotti
+  - Cristiano Bombardi
+  - Giovanna Calandra-Buonaura
+  - Sabina Capellari
+  - Gary Cohen
+  - Pietro Cortelli
+  - Laura Gasparini
+  - Quasar Padiath
+  - Alice Valli
+  - Giovanna Zoccoli
+  - Alessandro Silvani
+  publisher: Experimental neurology
+  date: '2017-12-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29262292
+  image: images/publications/pubmed_29262292.png
+  tags:
+  - Arterial pressure
+  - Breathing
+  - Gait
+  - Heart rate
+  - Lamin
+  - Leukodystrophy
+  - Mice
+  - Oligodendrocyte
+  - Sleep
+  - Sympathetic
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:26311780
