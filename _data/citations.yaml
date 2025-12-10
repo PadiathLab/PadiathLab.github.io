@@ -656,6 +656,81 @@
   - Sympathetic
   plugin: sources.py
   file: sources.yaml
+- id: pubmed:28973395
+  title: TUBB4A mutations result in specific neuronal and oligodendrocytic defects
+    that closely match clinically distinct phenotypes.
+  authors:
+  - Julian Curiel
+  - "Guillermo Rodr\xEDguez Bey"
+  - Asako Takanohashi
+  - Marianna Bugiani
+  - Xiaoqin Fu
+  - Nicole I Wolf
+  - Bruce Nmezi
+  - Raphael Schiffmann
+  - Mona Bugaighis
+  - Tyler Pierson
+  - Guy Helman
+  - Cas Simons
+  - Marjo S van der Knaap
+  - Judy Liu
+  - Quasar Padiath
+  - Adeline Vanderver
+  publisher: Human molecular genetics
+  date: '2017-11-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28973395
+  image: images/publications/pubmed_28973395.png
+  tags:
+  - phenotype
+  - mutation
+  - microtubules
+  - oligodendroglia
+  - tubulin
+  - cerebellum
+  - myelin
+  - hypomyelination
+  - polymerization
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:27854160
+  title: 'Lamin B1 mediated demyelination: Linking Lamins, Lipids and Leukodystrophies.'
+  authors:
+  - Quasar S Padiath
+  publisher: Nucleus (Austin, Tex.)
+  date: '2016-11-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27854160
+  image: images/publications/pubmed_27854160.png
+  tags:
+  - ADLD demyelination
+  - Lamin B1
+  - epigenetic modifications
+  - leukodystrophy
+  - lipid synthesis
+  - nuclear lamina
+  - nuclear structure
+  - transcription
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:26453127
+  title: CAPOS syndrome and hemiplegic migraine in a novel pedigree with the specific
+    ATP1A3 mutation.
+  authors:
+  - Ana Potic
+  - Bruce Nmezi
+  - Quasar S Padiath
+  publisher: Journal of the neurological sciences
+  date: '2015-10-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26453127
+  tags:
+  - ATP1A3 gene
+  - Ataxia
+  - Cerebellum
+  - Channelopathies
+  - Episodic encephalopathy
+  - Fever
+  - Migraine
+  plugin: sources.py
+  file: sources.yaml
 - id: pubmed:26311780
   title: Defects of Lipid Synthesis Are Linked to the Age-Dependent Demyelination
     Caused by Lamin B1 Overexpression.
@@ -691,6 +766,149 @@
   - inflammation
   - Lamin B1
   - lipid
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:25927548
+  title: An atypical form of AOA2 with myoclonus associated with mutations in SETX
+    and AFG3L2.
+  authors:
+  - Cecilia Mancini
+  - Laura Orsi
+  - Yiran Guo
+  - Jiankang Li
+  - Yulan Chen
+  - Fengxiang Wang
+  - Lifeng Tian
+  - Xuanzhu Liu
+  - Jianguo Zhang
+  - Hui Jiang
+  - Bruce Shike Nmezi
+  - Takashi Tatsuta
+  - Elisa Giorgio
+  - Eleonora Di Gregorio
+  - Simona Cavalieri
+  - Elisa Pozzi
+  - Paolo Mortara
+  - Maria Marcella Caglio
+  - Alessandro Balducci
+  - Lorenzo Pinessi
+  - Thomas Langer
+  - Quasar S Padiath
+  - Hakon Hakonarson
+  - Xiuqing Zhang
+  - Alfredo Brusco
+  publisher: BMC medical genetics
+  date: '2015-03-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25927548
+  image: images/publications/pubmed_25927548.png
+  tags:
+  - ATP1A3 gene
+  - Ataxia
+  - Cerebellum
+  - Channelopathies
+  - Episodic encephalopathy
+  - Fever
+  - Migraine
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:25359263
+  title: Adult-onset autosomal recessive ataxia associated with neuronal ceroid lipofuscinosis
+    type 5 gene (CLN5) mutations.
+  authors:
+  - Cecilia Mancini
+  - Stefano Nassani
+  - Yiran Guo
+  - Yulan Chen
+  - Elisa Giorgio
+  - Alessandro Brussino
+  - Eleonora Di Gregorio
+  - Simona Cavalieri
+  - Nicola Lo Buono
+  - Ada Funaro
+  - Nicola Renato Pizio
+  - Bruce Nmezi
+  - Aija Kyttala
+  - Filippo Maria Santorelli
+  - Quasar Salem Padiath
+  - Hakon Hakonarson
+  - Hao Zhang
+  - Alfredo Brusco
+  publisher: Journal of neurology
+  date: '2014-10-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25359263
+  image: images/publications/pubmed_25359263.png
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:25339210
+  title: Clinical spectrum of 4H leukodystrophy caused by POLR3A and POLR3B mutations.
+  authors:
+  - Nicole I Wolf
+  - Adeline Vanderver
+  - Rosalina M L van Spaendonk
+  - Raphael Schiffmann
+  - Bernard Brais
+  - Marianna Bugiani
+  - Erik Sistermans
+  - Coriene Catsman-Berrevoets
+  - Johan M Kros
+  - Pedro Soares Pinto
+  - Daniela Pohl
+  - Sandya Tirupathi
+  - "Petter Str\xF8mme"
+  - Ton de Grauw
+  - "S\xE9bastien Fribourg"
+  - Michelle Demos
+  - Amy Pizzino
+  - Sakkubai Naidu
+  - Kether Guerrero
+  - Marjo S van der Knaap
+  - "Genevi\xE8ve Bernard"
+  publisher: Neurology
+  date: '2014-10-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25339210
+  image: images/publications/pubmed_25339210.png
+  tags:
+  - Cerebellum
+  - Gait disorders/Ataxia
+  - Genetics
+  - Imaging
+  - Movement Disorders
+  - MRI
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:25085639
+  title: TUBB4A de novo mutations cause isolated hypomyelination.
+  authors:
+  - Amy Pizzino
+  - Tyler Mark Pierson
+  - Yiran Guo
+  - Guy Helman
+  - Sebastian Fortini
+  - Kether Guerrero
+  - Sulagna Saitta
+  - Jennifer Louise Patrick Murphy
+  - Quasar Padiath
+  - Yi Xie
+  - Hakon Hakonarson
+  - Xun Xu
+  - Tara Funari
+  - Michelle Fox
+  - Ryan J Taft
+  - Marjo S van der Knaap
+  - "Genevi\xE8ve Bernard"
+  - Raphael Schiffmann
+  - Cas Simons
+  - Adeline Vanderver
+  publisher: Neurology
+  date: '2014-08-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25085639
+  image: images/publications/pubmed_25085639.png
+  tags:
+  - Genetic linkage
+  - Genetics
+  - Leukodystrophies
+  - Medical/Systemic Disease
+  - Pediatric
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:23649844
@@ -750,6 +968,38 @@
   - MMBIR
   plugin: sources.py
   file: sources.yaml
+- id: pubmed:23676464
+  title: Lamin B1 mediates cell-autonomous neuropathology in a leukodystrophy mouse
+    model.
+  authors:
+  - Mary Y Heng
+  - Shu-Ting Lin
+  - Laure Verret
+  - Yong Huang
+  - Sherry Kamiya
+  - Quasar S Padiath
+  - Ying Tong
+  - Jorge J Palop
+  - Eric J Huang
+  - "Louis J Pt\xE1\u010Dek"
+  - Ying-Hui Fu
+  publisher: The Journal of clinical investigation
+  date: '2013-05-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23676464
+  image: images/publications/pubmed_23676464.png
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:20816241
+  title: Autosomal dominant leukodystrophy caused by lamin B1 duplications a clinical
+    and molecular case study of altered nuclear function and disease.
+  authors:
+  - Quasar Saleem Padiath
+  - Ying-Hui Fu
+  publisher: Methods in cell biology
+  date: '2010-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20816241
+  plugin: sources.py
+  file: sources.yaml
 - id: pubmed:16951681
   title: Lamin B1 duplications cause autosomal dominant leukodystrophy.
   authors:
@@ -787,5 +1037,26 @@
   link: https://www.ncbi.nlm.nih.gov/pubmed/15800623
   highlight: true
   image: images/publications/pubmed_15800623.png
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:15457499
+  title: Identification of a novel 45 repeat unstable allele associated with a disease
+    phenotype at the MJD1/SCA3 locus.
+  authors:
+  - Quasar Saleem Padiath
+  - Achal Kumar Srivastava
+  - Sanghmitra Roy
+  - Satish Jain
+  - Samir Kumar Brahmachari
+  publisher: 'American journal of medical genetics. Part B, Neuropsychiatric genetics
+    : the official publication of the International Society of Psychiatric Genetics'
+  date: '2005-02-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15457499
+  tags:
+  - Machado Joseph Disease/spinocerebellar ataxia 3
+  - CAG repeat
+  - repeat instability
+  - haplotype
+  - intermediate allele
   plugin: sources.py
   file: sources.yaml

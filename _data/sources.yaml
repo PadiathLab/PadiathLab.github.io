@@ -208,7 +208,44 @@
     - Sleep
     - Sympathetic
 
+- id: pubmed:28973395
+  image: images/publications/pubmed_28973395.png
+  tags:
+    - phenotype
+    - mutation
+    - microtubules
+    - oligodendroglia
+    - tubulin
+    - cerebellum
+    - myelin
+    - hypomyelination
+    - polymerization
+
+# 2016 publications
+
+- id: pubmed:27854160
+  image: images/publications/pubmed_27854160.png
+  tags:
+    - ADLD demyelination
+    - Lamin B1
+    - epigenetic modifications
+    - leukodystrophy
+    - lipid synthesis
+    - nuclear lamina
+    - nuclear structure
+    - transcription
+
 # 2015 publications
+
+- id: pubmed:26453127
+  tags:
+    - ATP1A3 gene
+    - Ataxia
+    - Cerebellum
+    - Channelopathies
+    - Episodic encephalopathy
+    - Fever
+    - Migraine
 
 - id: pubmed:26311780
   highlight: true
@@ -220,6 +257,41 @@
     - inflammation
     - Lamin B1
     - lipid
+
+- id: pubmed:25927548
+  image: images/publications/pubmed_25927548.png
+  tags:
+    - ATP1A3 gene
+    - Ataxia
+    - Cerebellum
+    - Channelopathies
+    - Episodic encephalopathy
+    - Fever
+    - Migraine
+
+# 2014 publications
+
+- id: pubmed:25359263
+  image: images/publications/pubmed_25359263.png
+ 
+- id: pubmed:25339210
+  image: images/publications/pubmed_25339210.png
+  tags:
+    - Cerebellum
+    - Gait disorders/Ataxia
+    - Genetics
+    - Imaging
+    - Movement Disorders
+    - MRI
+
+- id: pubmed:25085639
+  image: images/publications/pubmed_25085639.png
+  tags:
+    - Genetic linkage
+    - Genetics
+    - Leukodystrophies
+    - Medical/Systemic Disease
+    - Pediatric
 
 # 2013 publications
 
@@ -235,6 +307,13 @@
     - FoSTeS
     - MMBIR
 
+- id: pubmed:23676464
+  image: images/publications/pubmed_23676464.png
+  
+# 2010 publications
+
+- id: pubmed:20816241
+
 # 2006 publications
 
 - id: pubmed:16951681
@@ -247,6 +326,13 @@
   highlight: true
   image: images/publications/pubmed_15800623.png
 
+- id: pubmed:15457499
+  tags:
+    - Machado Joseph Disease/spinocerebellar ataxia 3
+    - CAG repeat
+    - repeat instability
+    - haplotype
+    - intermediate allele
 
 #- id: 
 #  type: paper
