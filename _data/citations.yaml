@@ -1,5 +1,64 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:40933505
+  title: Clinical Practice Guidelines for the Diagnosis, Management, and Surveillance
+    of LMNB1-Related Autosomal Dominant Leukodystrophy
+  authors:
+  - Radhika Dhamija
+  - W Oliver Tobin
+  - Pietro Cortelli
+  - Quasar Padiath
+  - Karthik Muthusamy
+  - Ujjal Didar Singh Sekhon
+  - Bishen Jeet Singh
+  - Dan Harris
+  - Heather Billings
+  - Keti Mamillo
+  - Holly Appleberry
+  - Elisa Giorgio
+  - Stefano Ratti
+  - Brent L Fogel
+  - Ralitza Gavrilova
+  - Raili Raininko
+  - Margot A Cousin
+  publisher: Neurology. Genetics
+  date: '2025-08-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40933505
+  image: images/publications/pubmed_40933505.png
+  tags:
+  - Cognitive Disorders/Dementia
+  - Genetics
+  - Leukodystrophies
+  - MRI
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:40025114
+  title: A high throughput, high content screen for non-toxic small molecules that
+    reduce levels of the nuclear lamina protein, Lamin B1.
+  authors:
+  - Laura L Vollmer
+  - Fang Liu
+  - Bruce Nmezi
+  - Guillermo Rodriguez Bey
+  - Nathan Herdman
+  - Tong Ying Shun
+  - Albert Gough
+  - Ruiting Liu
+  - Peter Wipf
+  - Timothy R Lezon
+  - Quasar S Padiath
+  - Andreas Vogt
+  publisher: Scientific reports
+  date: '2025-03-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40025114
+  image: images/publications/pubmed_40025114.png
+  tags:
+  - Lamin B1
+  - Laminopathies
+  - Autosomal dominant leukodystrophy
+  - High-content screening
+  plugin: sources.py
+  file: sources.yaml
 - id: pubmed:39910058
   title: An oligodendrocyte silencer element underlies the pathogenic impact of lamin
     B1 structural variants.
@@ -49,65 +108,6 @@
   - Gene regulation
   - Gene silencing
   - Medical genomics
-  plugin: sources.py
-  file: sources.yaml
-- id: pubmed:40933505
-  title: Clinical Practice Guidelines for the Diagnosis, Management, and Surveillance
-    of LMNB1-Related Autosomal Dominant Leukodystrophy
-  authors:
-  - Radhika Dhamija
-  - W Oliver Tobin
-  - Pietro Cortelli
-  - Quasar Padiath
-  - Karthik Muthusamy
-  - Ujjal Didar Singh Sekhon
-  - Bishen Jeet Singh
-  - Dan Harris
-  - Heather Billings
-  - Keti Mamillo
-  - Holly Appleberry
-  - Elisa Giorgio
-  - Stefano Ratti
-  - Brent L Fogel
-  - Ralitza Gavrilova
-  - Raili Raininko
-  - Margot A Cousin
-  publisher: Neurology. Genetics
-  date: '2025-08-29'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/40933505
-  image: images/publications/pubmed_40933505.png
-  tags:
-  - Cognitive Disorders/Dementia
-  - Genetics
-  - Leukodystrophies
-  - MRI
-  plugin: sources.py
-  file: sources.yaml
-- id: pubmed:40025114
-  title: Clinical Practice Guidelines for the Diagnosis, Management, and Surveillance
-    of LMNB1-Related Autosomal Dominant Leukodystrophy
-  authors:
-  - Laura L Vollmer
-  - Fang Liu
-  - Bruce Nmezi
-  - Guillermo Rodriguez Bey
-  - Nathan Herdman
-  - Tong Ying Shun
-  - Albert Gough
-  - Ruiting Liu
-  - Peter Wipf
-  - Timothy R Lezon
-  - Quasar S Padiath
-  - Andreas Vogt
-  publisher: Scientific reports
-  date: '2025-03-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/40025114
-  image: images/publications/pubmed_40025114.png
-  tags:
-  - Lamin B1
-  - Laminopathies
-  - Autosomal dominant leukodystrophy
-  - High-content screening
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:39292993
@@ -1052,11 +1052,349 @@
     : the official publication of the International Society of Psychiatric Genetics'
   date: '2005-02-05'
   link: https://www.ncbi.nlm.nih.gov/pubmed/15457499
+  image: images/publications/pubmed_15457499.png
   tags:
   - Machado Joseph Disease/spinocerebellar ataxia 3
   - CAG repeat
   - repeat instability
   - haplotype
   - intermediate allele
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:15536252
+  title: Chance in our strands?
+  authors:
+  - Quasar Saleem Padiath
+  - B Jagadeeshwara Rao
+  publisher: Journal of genetics
+  date: '2004-08-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15536252
+  image: images/publications/pubmed_15536252.png
+  tags:
+  - Schizophrenia
+  - Bipolar Disorder
+  - Daughter Cell
+  - Mouse Embryonic Stem Cell
+  - Bipolar Affective Disorder
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:14732601
+  title: A nonsense mutation in the synaptogyrin 1 gene in a family with schizophrenia.
+  authors:
+  - Ranjana Verma
+  - Chitra Chauhan
+  - Quasar Saleem
+  - Charu Gandhi
+  - Sanjeev Jain
+  - Samir K Brahmachari
+  publisher: Biological psychiatry
+  date: '2004-01-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/14732601
+  image: images/publications/pubmed_14732601.png
+  tags:
+  - Schizophrenia
+  - nonsense mutation
+  - Synaptogyrin1 (SYNGR1), presynaptic proteins
+  - ribonucleic acid decay
+  - haploinsufficiency
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:15129823
+  title: Glycogen synthase kinase 3beta as a likely target for the action of lithium
+    on circadian clocks.
+  authors:
+  - Quasar Saleem Padiath
+  - Dhanashree Paranjpe
+  - Sanjeev Jain
+  - Vijay Kumar Sharma
+  publisher: Chronobiology international
+  date: '2004-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15129823
+  image: images/publications/pubmed_15129823.png
+  tags:
+  - Lithium
+  - Drosophila melanogaster
+  - Circadian rhythms
+  - "GSK 3\u03B2"
+  - Period elongation
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:12956863
+  title: Molecular analysis of Huntington's disease and linked polymorphisms in the
+    Indian population.
+  authors:
+  - Q Saleem
+  - S Roy
+  - U Murgood
+  - R Saxena
+  - I C Verma
+  - A Anand
+  - U Muthane
+  - S Jain
+  - S K Brahmachari
+  publisher: Acta neurologica Scandinavica
+  date: '2003-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/12956863
+  image: images/publications/pubmed_12956863.png
+  tags:
+  - Huntington's disease
+  - CAG repeat
+  - India
+  - haplotype
+  - linkage disequilibrium
+  - founder mutation
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:11897323
+  title: Expanding colonies and expanding repeats.
+  authors:
+  - Quasar Saleem
+  - Uday Muthane
+  - Inder C Verma
+  - Samir K Brahmachari
+  - Sanjeev Jain
+  publisher: Lancet (London, England)
+  date: '2002-03-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/11897323
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:14960887
+  title: Common psychiatric diseases and human genetic variation.
+  authors:
+  - O Mukherjee
+  - Q Saleem
+  - M Purushottam
+  - A Anand
+  - S K Brahmachari
+  - S Jain
+  publisher: Community genetics
+  date: '2002-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/14960887
+  tags:
+  - Genetic predisposition
+  - Schizophrenia
+  - Bipolar disease
+  - India
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:11673798
+  title: Association of CAG repeat loci on chromosome 22 with schizophrenia and bipolar
+    disorder.
+  authors:
+  - Q Saleem
+  - D Dash
+  - C Gandhi
+  - A Kishore
+  - V Benegal
+  - T Sherrin
+  - O Mukherjee
+  - S Jain
+  - S K Brahmachari
+  publisher: Molecular psychiatry
+  date: '2001-11-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/11673798
+  image: images/publications/pubmed_11673798.png
+  tags:
+  - chromosome 22
+  - bipolar disorder
+  - schizophrenia
+  - CAG repeats
+  - anticipation
+  - microsatellite markers
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:11574110
+  title: A clinical study of patients with genetically confirmed Huntington's disease
+    from India.
+  authors:
+  - U A Murgod
+  - Q Saleem
+  - A Anand
+  - S K Brahmachari
+  - S Jain
+  - U B Muthane
+  publisher: Journal of the neurological sciences
+  date: '2001-09-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/11574110
+  image: images/publications/pubmed_11574110.png
+  tags:
+  - Huntington's disease
+  - Triplet repeats
+  - Functional assessments
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:11511917
+  title: The polyglutamine motif is highly conserved at the Clock locus in various
+    organisms and is not polymorphic in humans.
+  authors:
+  - Q Saleem
+  - A Anand
+  - S Jain
+  - S K Brahmachari
+  publisher: Human genetics
+  date: '2001-08-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/11511917
+  tags:
+  - Schizophrenia
+  - Bipolar Disorder
+  - Circadian Rhythm
+  - Clock Gene
+  - Polyglutamine
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:11121173
+  title: Association analysis of CAG repeats at the KCNN3 locus in Indian patients
+    with bipolar disorder and schizophrenia.
+  authors:
+  - Q Saleem
+  - V S Sreevidya
+  - J Sudhir
+  - J V Savithri
+  - Y Gowda
+  - C B-Rao
+  - V Benegal
+  - P P Majumder
+  - A Anand
+  - S K Brahmachari
+  - S Jain
+  publisher: American journal of medical genetics
+  date: '2000-12-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/11121173
+  tags:
+  - bipolar disorder
+  - CAG repeats
+  - potassium channel
+  - schizophrenia
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:11071107
+  title: Molecular analysis of Friedreich's ataxia locus in the Indian population.
+  authors:
+  - M Mukerji
+  - S Choudhry
+  - Q Saleem
+  - M V Padma
+  - M C Maheshwari
+  - S Jain
+  publisher: Acta neurologica Scandinavica
+  date: '2000-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/11071107
+  tags:
+  - Friedreich's ataxia
+  - GAA repeats
+  - repeat expansion
+  - Indian population
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:10781827
+  title: Probing the polyglutamine puzzle in neurological disorders.
+  authors:
+  - SK Brahmachari
+  - D Sharma
+  - S Sharma
+  - S Pasha
+  - S Sen
+  - Q Saleem
+  publisher: FEBS letters
+  date: '2000-04-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/10781827
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:10893491
+  title: Association analysis of 5HT transporter gene in bipolar disorder in the Indian
+    population.
+  authors:
+  - Q Saleem
+  - S Ganesh
+  - M Vijaykumar
+  - Y C Reddy
+  - S K Brahmachari
+  - S Jain
+  publisher: American journal of medical genetics
+  date: '2000-04-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/10893491
+  tags:
+  - bipolar disorder
+  - serotonin transporter gene (SERT)
+  - VNTR polymorphism
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s004390000240
+  title: 'Molecular analysis of autosomal dominant hereditary ataxias in the Indian
+    population: high frequency of SCA2 and evidence for a common founder mutation'
+  authors:
+  - Q. Saleem
+  - S. Choudhry
+  - M. Mukerji
+  - L. Bashyam
+  - M.V. Padma
+  - A. Chakravarthy
+  - M.C. Maheshwari
+  - S. Jain
+  - S.K. Brahmachari
+  publisher: Human Genetics
+  date: '2000-02-01'
+  link: https://doi.org/ck59xr
+  image: images/publications/pubmed_10746559.png
+  tags:
+  - Indian Population
+  - Birth Order
+  - Cerebellar Ataxia
+  - Repeat Number
+  - Trinucleotide Repeat
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:9754631
+  title: Variation at the MJD locus in the major psychoses.
+  authors:
+  - Q Saleem
+  - M Vijayakumar
+  - M Mutsuddi
+  - N Chowdhary
+  - S Jain
+  - S K Brahmachari
+  publisher: American journal of medical genetics
+  date: '1998-09-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/9754631
+  tags:
+  - Machado-Joseph disease
+  - bipolar disorder
+  - schizophrenia
+  - triplet repeat
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:9604547
+  title: Correlation of clinical profile of myotonic dystrophy with CTG repeats in
+    the myotonin protein kinase gene.
+  authors:
+  - M Gourie-Devi
+  - J R Chaudhuri
+  - A Vasanth
+  - Q Saleem
+  - M Mutsuddi
+  - M Gopinath
+  - P S Sarkar
+  - S K Brahmachari
+  publisher: The Indian journal of medical research
+  date: '1998-04-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/9604547
+  plugin: sources.py
+  file: sources.yaml
+- id: https://www.ncbi.nlm.nih.gov/books/NBK338165/
+  title: LMNB1-Related Autosomal Dominant Leukodystrophy
+  authors:
+  - Raili Raininko
+  - Michael Gosky
+  - Quasar S Padiath
+  - Margaret P Adam
+  - Sarah Bick
+  - Ghayda M Mirzaa
+  - Roberta A Pagon
+  - Stephanie E Wallace
+  - Anne Amemiya
+  publisher: "GeneReviews\xAE [Internet]"
+  date: '1993-01-01'
+  link: https://pubmed.ncbi.nlm.nih.gov/26749591/
+  type: book
   plugin: sources.py
   file: sources.yaml

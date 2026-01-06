@@ -2,17 +2,6 @@
 
 # 2025 publications
 
-- id: pubmed:39910058
-  highlight: true
-  image: images/publications/pubmed_39910058.png
-  buttons:
-    - type: website
-      link: https://orca.zhoulab.io/
-  tags:
-    - Gene regulation
-    - Gene silencing
-    - Medical genomics
-
 - id: pubmed:40933505
   title: "Clinical Practice Guidelines for the Diagnosis, Management, and Surveillance of LMNB1-Related Autosomal Dominant Leukodystrophy"
   image: images/publications/pubmed_40933505.png
@@ -23,13 +12,23 @@
     - MRI
 
 - id: pubmed:40025114
-  title: Clinical Practice Guidelines for the Diagnosis, Management, and Surveillance of LMNB1-Related Autosomal Dominant Leukodystrophy
   image: images/publications/pubmed_40025114.png
   tags:
     - Lamin B1
     - Laminopathies
     - Autosomal dominant leukodystrophy
     - High-content screening
+
+- id: pubmed:39910058
+  highlight: true
+  image: images/publications/pubmed_39910058.png
+  buttons:
+    - type: website
+      link: https://orca.zhoulab.io/
+  tags:
+    - Gene regulation
+    - Gene silencing
+    - Medical genomics
 
 # 2024 publications
 
@@ -327,6 +326,7 @@
   image: images/publications/pubmed_15800623.png
 
 - id: pubmed:15457499
+  image: images/publications/pubmed_15457499.png
   tags:
     - Machado Joseph Disease/spinocerebellar ataxia 3
     - CAG repeat
@@ -334,26 +334,146 @@
     - haplotype
     - intermediate allele
 
-#- id: 
-#  type: paper
-#  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-#  date: 2020-12-4
-#  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-#  buttons:
-#    - type: manubot
-#      link: https://greenelab.github.io/meta-review/
-#    - type: source
-#      text: Manuscript Source
-#      link: https://github.com/greenelab/meta-review
-#    - type: website
-#      link: http://manubot.org/
-#  tags:
-#    - open science
-#    - collaboration
-#  repo: greenelab/meta-review
+# 2004 publications
 
-#- id: doi:10.1016/j.csbj.2020.05.017
-#  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: pubmed:15536252
+  image: images/publications/pubmed_15536252.png
+  tags:
+    - Schizophrenia
+    - Bipolar Disorder
+    - Daughter Cell
+    - Mouse Embryonic Stem Cell
+    - Bipolar Affective Disorder
 
-#- id: doi:10.7554/eLife.32822
-#  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: pubmed:14732601
+  image: images/publications/pubmed_14732601.png
+  tags:
+    - Schizophrenia
+    - nonsense mutation
+    - Synaptogyrin1 (SYNGR1), presynaptic proteins
+    - ribonucleic acid decay
+    - haploinsufficiency
+
+- id: pubmed:15129823
+  image: images/publications/pubmed_15129823.png
+  tags:
+    - Lithium
+    - Drosophila melanogaster
+    - Circadian rhythms
+    - GSK 3β
+    - Period elongation
+
+# 2003 publications
+
+- id: pubmed:12956863
+  image: images/publications/pubmed_12956863.png
+  tags:
+    - Huntington's disease
+    - CAG repeat
+    - India
+    - haplotype
+    - linkage disequilibrium
+    - founder mutation
+
+# 2002 publications
+
+- id: pubmed:11897323
+
+- id: pubmed:14960887
+  tags:
+    - Genetic predisposition
+    - Schizophrenia
+    - Bipolar disease
+    - India
+
+# 2001 publications
+
+- id: pubmed:11673798
+  image: images/publications/pubmed_11673798.png
+  tags:
+    - chromosome 22
+    - bipolar disorder
+    - schizophrenia
+    - CAG repeats
+    - anticipation
+    - microsatellite markers
+
+- id: pubmed:11574110
+  image: images/publications/pubmed_11574110.png
+  tags:
+    - Huntington's disease
+    - Triplet repeats
+    - Functional assessments
+
+- id: pubmed:11511917
+  tags:
+    - Schizophrenia
+    - Bipolar Disorder
+    - Circadian Rhythm
+    - Clock Gene
+    - Polyglutamine
+
+# 2000 publications
+
+- id: pubmed:11121173
+  tags:
+    - bipolar disorder
+    - CAG repeats
+    - potassium channel
+    - schizophrenia
+
+- id: pubmed:11071107
+  tags:
+    - Friedreich's ataxia
+    - GAA repeats
+    - repeat expansion
+    - Indian population
+
+- id: pubmed:10781827
+
+- id: pubmed:10893491
+  tags:
+    - bipolar disorder
+    - serotonin transporter gene (SERT)
+    - VNTR polymorphism
+
+- id: doi:10.1007/s004390000240
+  #id: pubmed:10746559
+  image: images/publications/pubmed_10746559.png
+  tags:
+    - Indian Population
+    - Birth Order
+    - Cerebellar Ataxia
+    - Repeat Number
+    - Trinucleotide Repeat
+
+# 1998 publications
+
+- id: pubmed:9754631
+  tags:
+    - Machado-Joseph disease
+    - bipolar disorder
+    - schizophrenia
+    - triplet repeat
+
+- id: pubmed:9604547
+  
+
+# 1993 publications
+
+- id: https://www.ncbi.nlm.nih.gov/books/NBK338165/
+  title: "LMNB1-Related Autosomal Dominant Leukodystrophy"
+  type: book
+  publisher: "GeneReviews® [Internet]"
+  authors:
+    - "Raili Raininko"
+    - "Michael Gosky"
+    - "Quasar S Padiath"
+    - "Margaret P Adam"
+    - "Sarah Bick"
+    - "Ghayda M Mirzaa"
+    - "Roberta A Pagon"
+    - "Stephanie E Wallace"
+    - "Anne Amemiya" 
+  date: 1993-01-01
+  link: https://pubmed.ncbi.nlm.nih.gov/26749591/
